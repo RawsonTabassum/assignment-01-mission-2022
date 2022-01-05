@@ -1,4 +1,53 @@
+h1 {
+  font-family: "Unna", serif;
+  line-height: 0.4;
+}
+
+.h1-stying {
+  font-size: 90px;
+}
+
 p {
   font-family: system-ui;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+.text-orange {
+  color: orange;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.border-red {
+  border-left: 5px solid orangered;
+  border-radius: 5px;
+  margin-top: 25%;
+  padding-left: 2%;
+}
+
+.first-section {
+  width: 70%;
+  padding-left: 10%;
+}
+
+.first-section img {
+  margin-left: 15%;
+  width: 90%;
+}
+
+.create-margin {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.button-link {
+  text-decoration: none;
+  background-image: linear-gradient(salmon, rgb(243, 72, 81));
+  border-radius: 7px;
+  padding: 20px 50px;
+  color: white;
+  font-family: system-ui;
+  font-size: 22px;
 }
