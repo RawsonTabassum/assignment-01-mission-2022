@@ -137,6 +137,10 @@ p {
   margin: 100px;
 }
 
+.develop-div {
+  margin-left: -80px;
+}
+
 .fourth-section {
   margin-left: 100px;
   margin-right: 100px;
@@ -189,14 +193,14 @@ p {
 .link {
   text-decoration: none;
   font-family: system-ui;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
-  color: black;
-  text-align: center;
+  color: rgb(32, 2, 59);
+  text-transform: uppercase;
+  text-shadow: 2px 2px #dbdbdb;
 }
 
 footer div {
-  margin-top: 0 0;
   height: 200px;
   width: 100%;
   background-color: rgb(19, 1, 18);
@@ -218,7 +222,6 @@ footer h2 {
 
 footer p {
   margin-top: 30px;
-  padding-bottom: 80px;
   text-align: center;
   color: rgb(210, 213, 255);
   font-size: 20px;
