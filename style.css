@@ -154,6 +154,7 @@ p {
 }
 
 .line {
+  margin-top: 100px;
   margin-left: 200px;
   margin-right: 200px;
 }
@@ -164,36 +165,13 @@ p {
   margin-bottom: 100px;
 }
 
-.self-include-01 {
-  background-color: rgb(251, 242, 241);
-  margin: 0 auto;
-}
-
-.self-include-02 {
-  background-color: rgb(214, 218, 253);
-  margin: 0 auto;
-  padding: 10px 15px;
-}
-
-.self-include-03 {
+.self-include {
   background-color: rgb(214, 253, 235);
   margin: 0 auto;
   padding: 10px 15px;
 }
 
-.self-include-01 img {
-  width: 50%;
-  margin-bottom: 10px;
-  padding-left: 25%;
-}
-
-.self-include-02 img {
-  width: 50%;
-  margin-bottom: 10px;
-  padding-left: 25%;
-}
-
-.self-include-03 img {
+.self-include img {
   width: 50%;
   margin-bottom: 10px;
   padding-left: 25%;
@@ -206,6 +184,7 @@ p {
   font-weight: 600;
   padding: 50px;
   color: black;
+  text-align: center;
 }
 
 footer div {
