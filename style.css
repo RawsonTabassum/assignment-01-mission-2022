@@ -140,7 +140,7 @@ p {
   background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-size: 20%;
-  background-position: 85% 30px;
+  background-position: 85% 100px;
 }
 
 .global-img img {
