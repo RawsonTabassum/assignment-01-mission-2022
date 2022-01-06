@@ -144,7 +144,7 @@ p {
 .fourth-section {
   margin-left: 150px;
   margin-right: 100px;
-  margin-top: 40px;
+  margin-top: 20px;
   background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-size: 20%;
@@ -162,7 +162,7 @@ p {
 }
 
 .line {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-left: 100px;
   margin-right: 100px;
 }
